@@ -13,7 +13,7 @@ Com um background em análise de dados educacionais, atualmente estou focada em 
 
 ## 🔍 **O que estou fazendo**
 - 🎓 Mestrado em Gestão da informação na UFPR.
-- 🛢 Tecnólogo em Banco de dados no Senac-SP.
+- ⚙️ Especialização em Engenharia de dados na PUC-MG.
 - 💻 Trabalhando com monitoramento e manutenção de bancos de dados, criação de scripts T-SQL e PL/SQL, e provisionamento de ambientes para testes e homologação.
 
 &nbsp;
