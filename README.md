@@ -36,9 +36,7 @@ Com um background em análise de dados educacionais, atualmente estou focada em 
 
 ## 📊 STATS
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenaLaurentino&show_icons=true&theme=omni)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelenaLaurentino&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Vamos nos conectar!**
 
